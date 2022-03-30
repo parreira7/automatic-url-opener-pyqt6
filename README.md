@@ -3,6 +3,6 @@
 
 <div align="center">
     <a href="https://github.com/parreira7/urlopenerpyqt6">
-    <img align="center" alt='program-pic' height="350", style="border-radius=50px;" src="https://i.imgur.com/ugV6vhj.png">
+    <img align="center" alt='program-pic' height="350", style="border-radius=50px;" src="https://i.imgur.com/p6Y32pk.png">
          
 </div>
