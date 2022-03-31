@@ -1,5 +1,5 @@
 # automatic-url-opener-pyqt6
->this is a program based on pyqt6 lib. this app consists in opening webful websites constantly used on a daily basis.
+>this is a program based on pyqt6 lib. this app consists in opening websites constantly used on a daily basis.
 
 <div align="center">
     <a href="https://github.com/parreira7/urlopenerpyqt6">
